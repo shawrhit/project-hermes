@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ProjectRootManager" version="2" project-jdk-name="Lec15c_dynamic_window" project-jdk-type="Python SDK" />
+  <component name="Black">
+    <option name="sdkName" value="Python 3.12 virtualenv at C:\Users\Rohit Shaw\project-hermes\.venv" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 virtualenv at C:\Users\Rohit Shaw\project-hermes\.venv" project-jdk-type="Python SDK" />
 </project>
